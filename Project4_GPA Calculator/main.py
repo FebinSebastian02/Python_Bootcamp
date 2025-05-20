@@ -7,7 +7,7 @@ transcript_febin = {'Vehicle Vibrations' : [1, 3], 'Drives and Gears' : [1.3, 3]
               'Automotive Software and Systems Engineering' : [3.7, 4], 'CVT Programming Project' : [1, 4],
               'Principles of Electrical and Computer Engineering' : [3.7, 5],'Introduction to Autonomous Systems' : [1.7, 4],
               'Vehicle Propulsion Systems' : [2.7, 3], 'Electric and Hybrid vehicles' : [1.7, 3], 'CAE in Control Engineering' : [2.3, 4],
-              'Industrial Organisation' : [2.7, 4.5]}
+              'Industrial Organisation' : [2.7, 4.5], 'Linguistics and Language Processing' : [1.7, 5]}
 
 sumOfNumerator = 0
 sumOfDenominator = 0
