@@ -1,5 +1,4 @@
 from PyPDF2 import PdfMerger
-import pikepdf
 
 # An object is created from PdfMerger class
 merger = PdfMerger()
