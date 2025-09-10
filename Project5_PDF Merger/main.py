@@ -14,6 +14,7 @@ for pdf in ["F:\Febin\@RPTU\Internship\Master's\Master's Degree Transcript.pdf",
             "F:\Febin\@RPTU\Internship\Additional Documents\Residence Permit_Febin Sebastian.pdf",
             "F:\Febin\@RPTU\Internship\Additional Documents\Workpermit.pdf",
             "F:\Febin\@RPTU\Internship\Additional Documents\Machine Learning and Self-Driving Cars_Udemy.pdf",
+            "F:\Febin\@RPTU\Internship\Additional Documents\Docker for the Absolute Beginner - Hands On - DevOps.pdf",
             "F:\Febin\@RPTU\Internship\Additional Documents\MatLab Onramp.pdf",
             "F:\Febin\@RPTU\Internship\Additional Documents\Simulink_Onramp.pdf"]:
     merger.append(pdf)
